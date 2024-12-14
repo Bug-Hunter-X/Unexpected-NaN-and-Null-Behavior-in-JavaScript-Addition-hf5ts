@@ -1,0 +1,1 @@
+This repository demonstrates a common pitfall in JavaScript: the unexpected behavior of the + operator when dealing with undefined and null values. The bug.js file shows the unexpected results of adding undefined and null to numbers. The bugSolution.js provides a solution using explicit type checking or optional chaining.
